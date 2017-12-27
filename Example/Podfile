@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'zjxF_Example' do
+  pod 'zjxF', :path => '../'
+
+  target 'zjxF_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
