@@ -1,0 +1,6 @@
+framework module zjxF {
+  umbrella header "zjxF-umbrella.h"
+
+  export *
+  module * { export * }
+}

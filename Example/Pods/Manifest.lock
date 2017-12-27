@@ -1,0 +1,16 @@
+PODS:
+  - zjxF (0.1.0)
+
+DEPENDENCIES:
+  - zjxF (from `../`)
+
+EXTERNAL SOURCES:
+  zjxF:
+    :path: ../
+
+SPEC CHECKSUMS:
+  zjxF: b30ae835ab7dc90705f2886eec2cce870203bf16
+
+PODFILE CHECKSUM: a081e8d09a1e5a99db214bbfc12c838b701e5dc9
+
+COCOAPODS: 1.3.1
